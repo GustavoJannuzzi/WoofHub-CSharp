@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WoofHub_App.props" />
+</Project>
